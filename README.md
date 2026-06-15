@@ -17,10 +17,10 @@ A fine-tuned **DistilBERT** model that classifies movie reviews as **positive** 
 ## 📸 Screenshots
 
 ### Positive Review
-![Positive Review](screenshots/positive_sentiment.png)
+![Positive Review](positive_sentiment.png)
 
 ### Negative Review
-![Negative Review](screenshots/negative_sentiment.png)
+![Negative Review](negative_sentiment.png)
 
 ---
 
