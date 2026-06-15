@@ -11,6 +11,7 @@ A fine-tuned **DistilBERT** model that classifies movie reviews as **positive** 
 
 ## 🚀 Live Demo
 👉 Try the app: [Hugging Face Spaces](https://huggingface.co/spaces/naruladhruv2006/movie-sentiment-analyzer)
+---
 👉 Model on Hub: [naruladhruv2006/movie-sentiment-analyzer](https://huggingface.co/naruladhruv2006/movie-sentiment-analyzer)
 
 ---
